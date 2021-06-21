@@ -1,0 +1,31 @@
+{
+  "name": "josbin",
+  "version": "1.0.1",
+  "description": "Sample Web App demonstrates the use of APIs for EnableX platform to develop basic Multi-Party RTC (Real Time Communication) Application.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node ./server/server.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "author": "abraham",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "btoa": "^1.2.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "log4js": "^6.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABRAHAM-1998/TextMevideo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ABRAHAM-1998/TextMevideo/issues"
+  },
+  "homepage": "https://github.com/ABRAHAM-1998/TextMevideo#readme"
+}
